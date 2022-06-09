@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">registro</string>
+    <string name="reg">registrar</string>
+    <string name="pass">contraseña</string>
+    <string name="core">correo</string>
+    <string name="ing">ingresar</string>
+    <string name="nom">nombre</string>
+</resources>
